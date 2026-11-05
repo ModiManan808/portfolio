@@ -1,0 +1,5 @@
+*.py
+scratch/
+__pycache__/
+*.log
+
