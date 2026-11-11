@@ -17,3 +17,4 @@ A self-contained static archive of Capture The Flag (CTF) challenge writeups, fu
 
 Configured for immediate zero-config deployment on **Vercel** or **GitHub Pages**.
 Simply point your static host to `index.html`.
+
